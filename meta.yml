@@ -1,6 +1,7 @@
 kit:
   name: "PetClinic"
   link: https://github.com/qubell/starter-java-web
+  environmentId: "57023ab2e4b0f129931b7bb7"
   applications:
     - name: "PetClinic"
       manifest: https://raw.github.com/qubell-bazaar/starter-java-web/1.1-37p/starter-java-web.yml
@@ -11,9 +12,6 @@ kit:
       manifest: https://raw.github.com/qubell-bazaar/component-haproxy/1.0-34p/component-haproxy.yml
     - name: "Application Server"
       manifest: https://raw.github.com/qubell-bazaar/component-tomcat-dev/1.0-34p/component-tomcat-dev.yml
-  environment:
-    name: "default"
-    url: "57023ab2e4b0f129931b7bb7"
   provider:
     name: "Qubell"
     link: http://qubell.com
