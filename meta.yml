@@ -1,7 +1,7 @@
 kit:
   name: "PetClinic"
   link: https://github.com/qubell/starter-java-web
-  environmentId: "57023ab2e4b0f129931b7bb7"
+  environment: "57023ab2e4b0f129931b7bb7"
   applications:
     - name: "PetClinic"
       manifest: https://raw.github.com/qubell-bazaar/starter-java-web/1.1-37p/starter-java-web.yml
