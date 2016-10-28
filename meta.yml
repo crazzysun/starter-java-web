@@ -9,6 +9,12 @@ kit:
     - name: "Database"
       manifest: https://raw.github.com/qubell-bazaar/component-mysql-dev/1.0-34p/component-mysql-dev.yml
       service: "true"
+    - name: "Load Balancer"
+      manifest: https://raw.github.com/qubell-bazaar/component-haproxy/1.0-34p/component-haproxy.yml
+      service: "true"
+    - name: "Application Server"
+      manifest: https://raw.github.com/qubell-bazaar/component-tomcat-dev/1.0-34p/component-tomcat-dev.yml
+      service: "true"
   provider:
     name: "Qubell"
     link: http://qubell.com
