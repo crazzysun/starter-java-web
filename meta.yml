@@ -1,6 +1,6 @@
 kit:
   name: "PetClinic"
-  link: https://github.com/qubell/starter-java-web
+  link: https://github.com/crazzysun/starter-java-web
   environment: "580a0422a826436971cf14bc"
   applications:
     - name: "Application Server"
