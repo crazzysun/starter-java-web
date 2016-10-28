@@ -1,0 +1,9 @@
+application:
+  components:
+    workflow:
+      type: workflow.Instance
+      configuration:
+        configuration.workflows:
+          launch: 
+            steps: []
+            
