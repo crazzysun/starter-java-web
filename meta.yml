@@ -4,7 +4,7 @@ kit:
   environment: "580a0422a826436971cf14bc"
   applications:
     - name: "Application Server"
-      manifest: https://raw.github.com/qubell-bazaar/component-tomcat-dev/1.0-34p/component-tomcat-dev.yml
+      manifest: https://raw.githubusercontent.com/crazzysun/starter-java-web/master/empty.yml
       service: "true"
   provider:
     name: "Qubell"
