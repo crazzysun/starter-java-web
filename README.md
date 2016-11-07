@@ -6,7 +6,7 @@ This Starter Kit provides the basic building blocks for deploying, updating and 
 Version 1.1-37p
 -------------
 
-[![Install](https://raw.github.com/qubell-bazaar/component-skeleton/master/img/install.png)](https://express.tonomi.com/applications/upload?metadataUrl=https://raw.githubusercontent.com/crazzysun/starter-java-web/master/meta.yml)
+[![Install](https://raw.github.com/qubell-bazaar/component-skeleton/master/img/install.png)](http://localhost:9000/applications/upload?metadataUrl=https://raw.githubusercontent.com/crazzysun/starter-java-web/master/meta.yml)
 
 Features
 --------
