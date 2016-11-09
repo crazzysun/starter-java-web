@@ -17,7 +17,7 @@ Version 1.1-37p
 3-Hierarhicaly app
 -----------------
 
-[![Install](https://raw.github.com/qubell-bazaar/component-skeleton/master/img/install.png)](http://localhost:9000/applications/upload?metadataUrl=https://raw.githubusercontent.com/crazzysun/starter-java-web/master/meta_for_parent_parent_childs.yml)
+[![Install](https://raw.github.com/qubell-bazaar/component-skeleton/master/img/install.png)](http://localhost:9000/applications/upload?metadataUrl=https://raw.githubusercontent.com/crazzysun/starter-java-web/master/meta_for_parent_childs.yml)
 
 Features
 --------
