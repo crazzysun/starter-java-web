@@ -2,8 +2,6 @@ kit:
   name: "Hierarhicaly project"
   link: https://github.com/crazzysun/starter-java-web
   applications:
-    - name: "parent_parent_childs"
-      manifest: https://raw.githubusercontent.com/crazzysun/starter-java-web/master/parent_parent_childs.yml
     - name: "parent_childs"
       manifest: https://raw.githubusercontent.com/crazzysun/starter-java-web/master/parent_childs.yml
     - name: "child_wait"
