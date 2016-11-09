@@ -1,0 +1,10 @@
+application:
+  components:
+    p_child_one:
+      type: reference.Submodule
+      configuration:
+        __locator.application-id: "parent_childs"
+    p_child_two:
+      type: reference.Submodule
+      configuration:
+        __locator.application-id: "child_quick"
