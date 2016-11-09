@@ -1,0 +1,11 @@
+application:
+  components:
+    child_quick:
+      type: reference.Submodule
+      configuration:
+        __locator.application-id: "child_quick"
+
+    child_wait:
+      type: reference.Submodule
+      configuration:
+        __locator.application-id: "child_wait"
