@@ -1,0 +1,16 @@
+kit:
+  name: "Hierarhicaly project"
+  link: https://github.com/crazzysun/starter-java-web
+  applications:
+    - name: "parent_childs"
+      manifest: https://raw.githubusercontent.com/crazzysun/starter-java-web/master/parent_childs.yml
+    - name: "parent_childs"
+      manifest: https://raw.githubusercontent.com/crazzysun/starter-java-web/master/child_wait.yml
+    - name: "parent_childs"
+      manifest: https://raw.githubusercontent.com/crazzysun/starter-java-web/master/child_quick.yml
+  provider:
+    name: "Qubell"
+    link: http://qubell.com
+  documentation:
+    overview: |
+        
