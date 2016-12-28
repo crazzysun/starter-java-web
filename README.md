@@ -30,8 +30,8 @@ Configurations
 --------------
  - [Tomcat 5](https://github.com/qubell-bazaar/component-tomcat-dev), [MySQL 5](https://github.com/qubell-bazaar/component-mysql-dev), [HAProxy 1.4](https://github.com/qubell-bazaar/component-haproxy), CentOS 6.4 (us-east-1/ami-eb6b0182), AWS EC2 m1.small, root
 
-Pre-requisites
---------------
+Pre-requisites only for Version 1.1-37p
+---------------------------------------
  - Configured Cloud Account a in chosen environment
  - Either installed Chef on target compute OR launch under root
  - All pre-requisites from the components above
